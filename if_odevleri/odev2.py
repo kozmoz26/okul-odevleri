@@ -7,7 +7,6 @@ Kullanıcının yaş bilgisi alınıp
 şeklinde ekrana yazdıran programın python kodlarını yazınız.
 """
 
-
 age = int(input("Lütfen yaşınızı giriniz: "))
 
 if age < 12:

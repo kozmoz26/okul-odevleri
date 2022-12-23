@@ -7,7 +7,6 @@ Buna göre kullanıcının girdiği otoparkta kalınan saat süresine göre öde
 yazdırınız.
 """
 
-
 parked_hours = float(input("Otoparkta kalınan süre (saat): "))
 
 if parked_hours <= 1:
